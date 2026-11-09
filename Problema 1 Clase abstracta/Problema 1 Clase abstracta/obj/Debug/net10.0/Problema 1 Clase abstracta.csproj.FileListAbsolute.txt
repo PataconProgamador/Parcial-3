@@ -1,0 +1,15 @@
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\bin\Debug\net10.0\Problema 1 Clase abstracta.exe
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\bin\Debug\net10.0\Problema 1 Clase abstracta.deps.json
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\bin\Debug\net10.0\Problema 1 Clase abstracta.runtimeconfig.json
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\bin\Debug\net10.0\Problema 1 Clase abstracta.dll
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\bin\Debug\net10.0\Problema 1 Clase abstracta.pdb
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\obj\Debug\net10.0\Problema 1 Clase abstracta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\obj\Debug\net10.0\Problema 1 Clase abstracta.AssemblyInfoInputs.cache
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\obj\Debug\net10.0\Problema 1 Clase abstracta.AssemblyInfo.cs
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\obj\Debug\net10.0\Problema 1 Clase abstracta.csproj.CoreCompileInputs.cache
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\obj\Debug\net10.0\Problema 1 Clase abstracta.dll
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\obj\Debug\net10.0\refint\Problema 1 Clase abstracta.dll
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\obj\Debug\net10.0\Problema 1 Clase abstracta.pdb
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\obj\Debug\net10.0\Problema 1 Clase abstracta.genruntimeconfig.cache
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\obj\Debug\net10.0\ref\Problema 1 Clase abstracta.dll
+C:\Users\luixe\source\repos\Problema 1 Clase abstracta\Problema 1 Clase abstracta\obj\Debug\net10.0\Problema.68D0EB7A.Up2Date
