@@ -3,8 +3,8 @@
 09/11/26.  
 ## Contenido  
 Parcial 3   
-problema 1 de clase abstracta  
-Problema 2 Newtonsoft.Json
+Problema 1 de clase abstracta  
+Problema 2 Newtonsoft.Json  
 Problema 3 Login con BCrypt
 
 ## Tecnologias  
