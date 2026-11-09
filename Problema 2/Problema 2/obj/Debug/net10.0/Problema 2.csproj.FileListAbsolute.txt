@@ -1,0 +1,17 @@
+C:\Users\luixe\source\repos\Problema 2\Problema 2\bin\Debug\net10.0\Problema 2.exe
+C:\Users\luixe\source\repos\Problema 2\Problema 2\bin\Debug\net10.0\Problema 2.deps.json
+C:\Users\luixe\source\repos\Problema 2\Problema 2\bin\Debug\net10.0\Problema 2.runtimeconfig.json
+C:\Users\luixe\source\repos\Problema 2\Problema 2\bin\Debug\net10.0\Problema 2.dll
+C:\Users\luixe\source\repos\Problema 2\Problema 2\bin\Debug\net10.0\Problema 2.pdb
+C:\Users\luixe\source\repos\Problema 2\Problema 2\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\luixe\source\repos\Problema 2\Problema 2\obj\Debug\net10.0\Problema 2.csproj.AssemblyReference.cache
+C:\Users\luixe\source\repos\Problema 2\Problema 2\obj\Debug\net10.0\Problema 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luixe\source\repos\Problema 2\Problema 2\obj\Debug\net10.0\Problema 2.AssemblyInfoInputs.cache
+C:\Users\luixe\source\repos\Problema 2\Problema 2\obj\Debug\net10.0\Problema 2.AssemblyInfo.cs
+C:\Users\luixe\source\repos\Problema 2\Problema 2\obj\Debug\net10.0\Problema 2.csproj.CoreCompileInputs.cache
+C:\Users\luixe\source\repos\Problema 2\Problema 2\obj\Debug\net10.0\Problema 2.csproj.Up2Date
+C:\Users\luixe\source\repos\Problema 2\Problema 2\obj\Debug\net10.0\Problema 2.dll
+C:\Users\luixe\source\repos\Problema 2\Problema 2\obj\Debug\net10.0\refint\Problema 2.dll
+C:\Users\luixe\source\repos\Problema 2\Problema 2\obj\Debug\net10.0\Problema 2.pdb
+C:\Users\luixe\source\repos\Problema 2\Problema 2\obj\Debug\net10.0\Problema 2.genruntimeconfig.cache
+C:\Users\luixe\source\repos\Problema 2\Problema 2\obj\Debug\net10.0\ref\Problema 2.dll
